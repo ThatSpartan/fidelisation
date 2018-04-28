@@ -1,6 +1,6 @@
 {
-  "name": "notes-eleves",
-  "version": "0.0.2",
+  "name": "fidelisation",
+  "version": "0.0.1",
   "description": "Application pour gérer les notes des éleves",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThatSpartan/notes-eleves.git"
+    "url": ""
   },
   "author": "ThatSpartan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ThatSpartan/notes-eleves/issues"
-  },
-  "homepage": "https://github.com/ThatSpartan/notes-eleves#readme",
+  "homepage": "",
   "devDependencies": {
     "coffeescript": "^2.2.4",
     "gulp": "^3.9.1",
@@ -32,5 +29,8 @@
     "chai": "^4.1.2",
     "coffee-script": "^1.12.7",
     "npm": "^5.8.0"
+  },
+  "directories": {
+    "test": "test"
   }
 }
